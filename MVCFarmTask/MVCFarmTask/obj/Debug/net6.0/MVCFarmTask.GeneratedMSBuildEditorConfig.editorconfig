@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCFarmTask
+build_property.RootNamespace = MVCFarmTask
+build_property.ProjectDir = C:\Users\memme\source\repos\MVCFarmTask\MVCFarmTask\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\memme\source\repos\MVCFarmTask\MVCFarmTask
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Page/blogdetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxibG9nZGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Page/bloggrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxibG9nZ3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Page/features.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxmZWF0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Page/testimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVx0ZXN0aW1vbmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Page/theteam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVx0aGV0ZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/memme/source/repos/MVCFarmTask/MVCFarmTask/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
